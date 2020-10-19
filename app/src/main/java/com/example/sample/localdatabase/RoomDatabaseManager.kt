@@ -55,7 +55,6 @@ class RoomDatabaseManager : LocalDatabaseHelper {
                 sectionList.add(sectionTable)
             }
         }
-
         localRoomDatabase.getSectionDao().insetAll(sectionList)
     }
 

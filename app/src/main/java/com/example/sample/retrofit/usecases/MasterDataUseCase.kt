@@ -49,7 +49,8 @@ class MasterDataUseCase : BaseUseCase() {
             }
 
             Log.e("GAMBHIR", "enums ka size :: ${objectList.size}")
-            localDatabaseHelper.saveSectionList(sectionList)
+            //localDatabaseHelper.saveSectionList(sectionList)
+            localDatabaseHelper.saveAllMasterData(objectList)
 
             masterdataRespone
         }
