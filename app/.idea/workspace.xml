@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dac3612b-44e8-4bee-9663-2b4782d5a112" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/androidTest/java/com/example/velvetlifestyleassignment/ExampleInstrumentedTest.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/activity/BaseActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/activity/HomeActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/adapter/BannerSliderAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/adapter/ThumbnailSliderAdapter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/components/ApplicationComponent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/components/ApplicationModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/components/ContextModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/components/DataComponent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/components/DataModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/components/GsonModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/components/UseCaseComponent.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/components/UseCaseModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/extras/AppConstant.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/extras/SugarApp.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/Converter.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/LocalDatabaseHelper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/LocalRoomDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/RoomDatabaseConstant.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/RoomDatabaseManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/dao/BaseDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/dao/ProductDAO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/dao/SectionDAO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/dao/VariantDAO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/dao/VariantImagesDAO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/tables/ProductTable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/tables/SectionTable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/tables/VariantImagesTable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/localdatabase/tables/VariantTable.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/ApiHelper.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/NetworkApi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/RetroFitManager.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/RetrofitModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/domainDto/BaseDTO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/domainDto/MasterDataDTO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/domainDto/ProductDTO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/domainDto/SectionDTO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/domainDto/VariantDTO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/domainDto/VariantImageDTO.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/entity/MasterDataResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/usecases/BaseUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/retrofit/usecases/MasterDataUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/viewmodel/BaseViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/velvetlifestyleassignment/viewmodel/MasterViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/image3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/drawable/sugarlips.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/item_home_banner_scroll_image.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/layout/item_products_horizontal_scroll.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/raw/gif2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/velvetlifestyleassignment/ExampleUnitTest.kt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1j4JNVKbLNkGQv4b4D5hGlMDpMN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SSAmple" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dac3612b-44e8-4bee-9663-2b4782d5a112" name="Default Changelist" comment="" />
+      <created>1603057390871</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603057390871</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="249" y="0" key="#Project_Structure" timestamp="1603058311412">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1603058311412" />
+    <state x="223" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603058134688">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="65" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603058134688" />
+    <state x="549" y="165" key="FileChooserDialogImpl" timestamp="1603058773294">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="165" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603058773294" />
+  </component>
+</project>
